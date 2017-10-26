@@ -11,8 +11,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {
-            "LTDBeget\\util\\OpenTBS\\": "src/"
-        }
+        "files": ["src/tbs_class.php", "src/tbs_plugin_opentbs.php"]
     }
 }

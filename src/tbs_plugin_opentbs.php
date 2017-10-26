@@ -14,8 +14,6 @@
  * @license LGPL-3.0
  */
 
-namespace LTDBeget\util\OpenTBS;
-
 /**
  * Constants to drive the plugin.
  */
